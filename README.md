@@ -7,4 +7,10 @@ Tutorial series from [The Net Ninja Youtube Channel](https://www.youtube.com/cha
 - [Html](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 
+## :computer: Preview
+
+![](https://github.com/guibbers/netNinjaStyledForm/blob/main/preview/Preview.png)
+
 ## [Playlist Link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
+
+
